@@ -1,5 +1,7 @@
 ## Master's student in Applied Mathematics
 
+[LinkedIn](https://www.linkedin.com/in/selim-ben-abdallah/)
+
 #### Technical Skills : Python, PyTorch, TensorFlow, SQL, C++, Git, AWS, Docker
 
 ## Education
