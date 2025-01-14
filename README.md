@@ -2,14 +2,14 @@
 
 #### Technical Skills : Python, PyTorch, TensorFlow, SQL, C++, Git, AWS, Docker
 
-### Education
+## Education
 - M.Eng, Applied Mathematics @ [INSA Toulouse](https://www.insa-toulouse.fr/en/insa-toulouse/) (Expected graduation : 2026)
 - Relevant Coursework : Advanced Statistics, Machine Learning, Deep Learning, Data Science, Time Series, Optimization, Cloud Computing
 
-### Work Experience
+## Work Experience
 #### AI Researcher (Internship) @ EDF 
 _July 2024 - December 2024_
-- Conducted a scientific review of deep learning algorithms for structural health monitoring, identifying potential applications of EDF.
+- Conducted a scientific review of deep learning algorithms for structural health monitoring, identifying potential applications for EDF.
 - Developed a data processing pipeline with PyTorch, integrating computer vision models (such as YOLO, Mask R-CNN, and SegFormer).
 - This pipeline handled raw data preprocessing, detected structural defects on concrete surfaces (dams, cooling towers), and predicted segmentation masks.
 - Evaluated the model's prediction performance with classical metrics (IoU, F1-Score, Dice Coefficient)
@@ -20,5 +20,12 @@ _November 2021 - November 2023_
 - Analyzed business data collected through KPIs.
 - Built interactive dashboards using Looker Studio and PowerBI.
   
-### Projects
-- Coming soon
+## Projects
+#### Image Generation with GANs and Diffusion Models
+_Deep Learning, Mathematics, TensorFlow_
+*Academic project with [D. Gomez](https://www.linkedin.com/in/damien-gomez-74468425a/) and [M. Elloumi](https://www.linkedin.com/in/mehdi-elloumi-ab891b1bb/)*
+- Conducted a comprehensive review of scientific literature to understand the uderlying principles of image generation through AI methods.
+- Developed a Generative Adversarial Network (GAN) with TensorFlow to generate realistic images of human faces.
+- Developed a Convolutional Neural Network (CNN) for image classification
+
+#### Other projects will be added soon
