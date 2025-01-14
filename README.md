@@ -24,8 +24,9 @@ _November 2021 - November 2023_
   
 ## Projects
 #### Image Generation with GANs and Diffusion Models
-_Deep Learning, Mathematics, TensorFlow_
-*Academic project with [D. Gomez](https://www.linkedin.com/in/damien-gomez-74468425a/) and [M. Elloumi](https://www.linkedin.com/in/mehdi-elloumi-ab891b1bb/)*
+##### Academic project with [D. Gomez](https://www.linkedin.com/in/damien-gomez-74468425a/) and [M. Elloumi](https://www.linkedin.com/in/mehdi-elloumi-ab891b1bb/)
+_Skills practiced : Deep Learning, Mathematics, TensorFlow_
+
 - Conducted a comprehensive review of scientific literature to understand the uderlying principles of image generation through AI methods.
 - Developed a Generative Adversarial Network (GAN) with TensorFlow to generate realistic images of human faces.
 - Developed a Convolutional Neural Network (CNN) for image classification
