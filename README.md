@@ -9,7 +9,7 @@
 - Relevant Coursework : Advanced Statistics, Machine Learning, Deep Learning, Data Science, Time Series, Optimization, Cloud Computing
 
 ## Work Experience
-#### AI Researcher (Internship) @ EDF 
+#### AI Researcher (Internship) @ [EDF](https://en.wikipedia.org/wiki/%C3%89lectricit%C3%A9_de_France)
 _July 2024 - December 2024_
 - Conducted a scientific review of deep learning algorithms for structural health monitoring, identifying potential applications for EDF.
 - Developed a data processing pipeline with PyTorch, integrating computer vision models (such as YOLO, Mask R-CNN, and SegFormer).
