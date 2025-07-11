@@ -15,7 +15,6 @@ _July 2024 - December 2024_
 - Developed a data processing pipeline with PyTorch, integrating computer vision models (such as YOLO, Mask R-CNN, and SegFormer).
 - This pipeline handled raw data preprocessing, detected structural defects on concrete surfaces (dams, cooling towers), and predicted segmentation masks.
 - Evaluated the model's prediction performance with classical metrics (IoU, F1-Score, Dice Coefficient)
-- Tested GAN-based architectures for synthetic data generation to enhance existing datasets.
 
 #### Data Analyst (Volunteer) @ Junior INSA Services
 _November 2021 - November 2023_
