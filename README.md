@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/selim-ben-abdallah/)
 
-#### Technical Skills : Python, SQL, Git, AWS, Docker
+#### Technical Skills : Python, R, SQL, Git
 #### AI/ML : PyTorch, TensorFlow, scikit-learn, open-cv, Llamaindex, Langchain, ...
 
 ## Education
@@ -14,13 +14,12 @@
 _April 2025 - September 2025_
 - I am building an Early Warning System for credit risk (currently conducting research on machine learning and deep learning algorithms)
 
-
 #### AI Researcher (Internship) @ [EDF](https://en.wikipedia.org/wiki/%C3%89lectricit%C3%A9_de_France)
 _July 2024 - December 2024_
-- Conducted a scientific review of deep learning algorithms for structural health monitoring, identifying potential applications for EDF.
-- Developed a data processing pipeline with PyTorch, integrating computer vision models (such as YOLO, Mask R-CNN, and SegFormer).
-- This pipeline handled raw data preprocessing, detected structural defects on concrete surfaces (dams, cooling towers), and predicted segmentation masks.
-- Evaluated the model's prediction performance with classical metrics (IoU, F1-Score, Dice Coefficient)
+- Conducted a scientific review of deep learning algorithms for structural health monitoring, identifying applications for EDF.
+- Developed a data processing pipeline using PyTorch, integrating computer vision models, including segmentation models based on Transformers (e.g., SegFormer).
+- The pipeline managed raw data preprocessing, detected structural defects on concrete surfaces, and generated segmentation mask predictions.
+- Evaluated model performance using standard metrics such as IoU, F1 Score, and Dice Coefficient.
 
 #### Data Analyst (Volunteer) @ Junior INSA Services
 _November 2021 - November 2023_
